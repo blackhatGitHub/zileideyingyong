@@ -1,3 +1,5 @@
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
 class Student:
     stuCount=0
     def __init__(self,name,stu_no,class_no,gender):
